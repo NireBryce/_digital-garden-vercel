@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/main/main/","tags":["gardenEntry"],"noteIcon":"","created":"2023-08-08T02:04:03.833-04:00","updated":"2023-10-07T01:09:15.639-04:00"}
+{"dg-publish":true,"permalink":"/main/main/","tags":["gardenEntry"],"noteIcon":"","created":"2023-08-08T02:04:03.833-04:00","updated":"2023-10-07T21:40:23.101-04:00"}
 ---
-
-**Contents:**
-```table-of-contents
-style: nestedList # TOC style (nestedList|inlineFirstLevel)
-maxLevel: 0 # Include headings up to the speficied level
-includeLinks: true # Make headings clickable
-debugInConsole: false # Print debug info in Obsidian console
-```
 
 
 Hey, I'm Nire Bryce.  I'll add a rel-me link eventually.  But I think it probably comes through in the posts c:
