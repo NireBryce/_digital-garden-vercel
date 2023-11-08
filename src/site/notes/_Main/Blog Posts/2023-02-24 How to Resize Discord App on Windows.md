@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/blog-posts/2023-02-24-how-to-resize-discord-app-on-windows/","noteIcon":"","created":"2023-08-09T17:05:00.912-04:00","updated":"2023-10-07T00:19:05.694-04:00"}
+{"dg-publish":true,"permalink":"/main/blog-posts/2023-02-24-how-to-resize-discord-app-on-windows/","noteIcon":""}
 ---
 
 #wordpress-repost #discord #tech-support #guides 
@@ -18,9 +18,9 @@ This is discord employee’s reply, and it works, even this far along.
 > [https://www.reddit.com/r/discordapp/comments/6shs9n/comment/dld24oi/](https://www.reddit.com/r/discordapp/comments/6shs9n/comment/dld24oi/)
 
 That’s meant for the test client though. To make it work with the current one, the file you’re after is over in `X:\Users\<Your_user_name>\AppData\Roaming\Discord\settings.json`
-![Pasted image 20231007001727.png](/img/user/_Main/attachments/Pasted%20image%2020231007001727.png)
+![[Pasted image 20231007001727.png\|Pasted image 20231007001727.png]]
 
-![Pasted image 20231007001851.png](/img/user/_Main/attachments/Pasted%20image%2020231007001851.png)
+![[Pasted image 20231007001851.png\|Pasted image 20231007001851.png]]
 Next, you’ll want close discord (through the taskbar) and add these two lines to settings.json, between “IS_MAXIMIZED” and “WINDOW_BOUNDS”. They must be on separate lines, as shown in the second picture.
 
 ```
