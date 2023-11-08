@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/main/","tags":["gardenEntry"],"noteIcon":"","created":"2023-08-08T02:04:03.833-04:00","updated":"2023-10-07T22:04:26.650-04:00"}
+{"dg-publish":true,"permalink":"/main/main/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -13,10 +13,8 @@ these are all rough draft quality, in the spirit of blogging.
 
 If you want to contact me, you can send me an ask on cohost, or email me at contact@ on this domain.  I'll read them, though it may take me awhile to respond.
 
-# linkblogs:
-[[_Main/Blog Posts/linkblogs/2023-09-04 Links\|2023-09-04 Links]]
-[[_Main/Blog Posts/linkblogs/2023-09-01 Things I Watched That Were Interesting Enough to Share\|2023-09-01 Things I Watched That Were Interesting Enough to Share]]
-[[_Main/Blog Posts/linkblogs/2023-08-04 Links\|2023-08-04 Links]]
+# Things I Maintain
+SNAKE FARM [[snake farm/Curse of Ramona Quick Reference/Curse of Ramona Quick Reference\|Curse of Ramona Quick Reference]]
 
 
 # Things I haven't read yet, but want to come back to
