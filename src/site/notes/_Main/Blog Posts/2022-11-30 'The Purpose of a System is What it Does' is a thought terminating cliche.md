@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/blog-posts/2022-11-30-the-purpose-of-a-system-is-what-it-does-is-a-thought-terminating-cliche/","noteIcon":"","created":"2023-08-09T16:29:39.514-04:00","updated":"2023-10-07T21:19:53.178-04:00"}
+{"dg-publish":true,"permalink":"/main/blog-posts/2022-11-30-the-purpose-of-a-system-is-what-it-does-is-a-thought-terminating-cliche/","noteIcon":""}
 ---
 
 #POSIWID #systems-thinking #thought-terminating-cliches #tech #cohost-repost 
