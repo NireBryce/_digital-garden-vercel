@@ -14,7 +14,7 @@ these are all rough draft quality, in the spirit of blogging.
 If you want to contact me, you can send me an ask on cohost, or email me at contact@ on this domain.  I'll read them, though it may take me awhile to respond.
 
 # Things I Maintain
-SNAKE FARM [[snake farm/Curse of Ramona/Curse of Ramona\|Curse of Ramona]]
+SNAKE FARM: Curse of Ramona [[snake farm/Curse of Ramona/CoR Quick Reference\|CoR Quick Reference]]
 
 
 # Things I haven't read yet, but want to come back to
