@@ -3,7 +3,7 @@
 ---
 
 
-This is extremely a work in progress.  If you want that progress to go faster, feel free to either fork it into a wiki or pull request against [my blog](https://github.com/NireBryce/_digital_garden/)
+This is extremely a work in progress.  If you want that progress to go faster, feel free to either fork it into a wiki or pull request against [my blog](https://github.com/NireBryce/_digital-garden-vercel/)
 
 ## Shop costs
 
