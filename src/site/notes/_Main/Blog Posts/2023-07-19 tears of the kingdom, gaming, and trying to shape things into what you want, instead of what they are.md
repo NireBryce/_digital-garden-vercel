@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/blog-posts/2023-07-19-tears-of-the-kingdom-gaming-and-trying-to-shape-things-into-what-you-want-instead-of-what-they-are/","noteIcon":"","created":"2023-08-09T14:54:39.027-04:00","updated":"2023-10-06T22:48:58.743-04:00"}
+{"dg-publish":true,"permalink":"/main/blog-posts/2023-07-19-tears-of-the-kingdom-gaming-and-trying-to-shape-things-into-what-you-want-instead-of-what-they-are/","noteIcon":""}
 ---
 
 #games #zelda #botw #totk #cohost-repost
