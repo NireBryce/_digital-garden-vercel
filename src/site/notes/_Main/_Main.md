@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/main/","tags":["gardenEntry"],"noteIcon":"","created":"2023-08-08T02:04:03.833-04:00","updated":"2023-10-07T22:04:26.650-04:00"}
+{"dg-publish":true,"permalink":"/main/main/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -13,14 +13,32 @@ these are all rough draft quality, in the spirit of blogging.
 
 If you want to contact me, you can send me an ask on cohost, or email me at contact@ on this domain.  I'll read them, though it may take me awhile to respond.
 
-# linkblogs:
-[[_Main/Blog Posts/linkblogs/2023-09-04 Links\|2023-09-04 Links]]
-[[_Main/Blog Posts/linkblogs/2023-09-01 Things I Watched That Were Interesting Enough to Share\|2023-09-01 Things I Watched That Were Interesting Enough to Share]]
-[[_Main/Blog Posts/linkblogs/2023-08-04 Links\|2023-08-04 Links]]
+# Things I Maintain
+SNAKE FARM: Curse of Ramona [[snake farm/Curse of Ramona/CoR Quick Reference\|CoR Quick Reference]]
+
 
 
 # Things I haven't read yet, but want to come back to
 [[_Main/Blog Posts/2023-08-29 Reversible Rust, Reversible Computing (Link, Haven't Read)\|2023-08-29 Reversible Rust, Reversible Computing (Link, Haven't Read)]]
+
+# Terms I'm trying to bring into fashion
+[[_Main/willing terms into existence/Xenocrates' Infinite Mountain of Garbage\|Xenocrates' Infinite Mountain of Garbage]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/main/willing-terms-into-existence/xenocrates-infinite-mountain-of-garbage/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+name credit to jkt 
+
+When someone gives you a lot of points, such that responding to any single one in detail causes them to use your lack of response to others against you.
+
+optimal move: Just fuckin' leave the convo, it's not worth it
+
+counter: be explicit that you're only answering one part
+success: minimal
+
+</div></div>
 
 # Blog Posts
 [[_Main/Blog Posts/2023-09-02 rtx-cli activate nu, or, how to source init scripts designed for nu, with nu\|2023-09-02 rtx-cli activate nu, or, how to source init scripts designed for nu, with nu]]
@@ -85,3 +103,30 @@ If you want to contact me, you can send me an ask on cohost, or email me at cont
 [[_Main/Blog Posts/2022-12-29 Concrete Spalling, and the US' crumbling infrastructure, and property owners not even thinking about maintenence cost when they buy things anymore\|2022-12-29 Concrete Spalling, and the US' crumbling infrastructure, and property owners not even thinking about maintenence cost when they buy things anymore]]
 [[_Main/Blog Posts/2022-11-30 I think that there needs to be more thinking and discussion on anti-cheat, game hacking, and accessibility\|2022-11-30 I think that there needs to be more thinking and discussion on anti-cheat, game hacking, and accessibility]]
 [[_Main/Blog Posts/2022-11-30 'The Purpose of a System is What it Does' is a thought terminating cliche\|2022-11-30 'The Purpose of a System is What it Does' is a thought terminating cliche]]
+
+# Links I'm Reading
+
+## 2023-11-25
+https://newsletter.mollywhite.net/p/effective-obfuscation
+
+
+
+## 2023-11-24
+https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569
+```embed
+title: "Why Isn’t Landfill Mining More Popular?"
+image: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7cf368fc88f4663176ec4a6eff116606.png"
+description: "Our garbage heaps are rich in metals and other materials, but landfill mining is rare."
+url: "https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569"
+```
+
+https://youtu.be/SS2AbZVdk2A
+```embed
+title: "How a Lens Creates an Image."
+image: "https://img.youtube.com/vi/SS2AbZVdk2A/maxresdefault.jpg"
+description: "Contents:0:00 Introducing “rays”2:14 Light is a wave4:00 Nils reached one thousand!4:43 Effect of Numerical Aperture6:46 About “Critical Dimension”7:40 Effec…"
+url: "https://youtu.be/SS2AbZVdk2A"
+```
+
+[[links 2023-11-23\|links 2023-11-23]]
+

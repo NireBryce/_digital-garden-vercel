@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/blog-posts/2023-07-20-a-lack-of-resources-to-deal-with-unions-for-employers-who-actually-want-them/","noteIcon":"","created":"2023-08-09T14:53:43.432-04:00","updated":"2023-10-06T22:49:01.639-04:00"}
+{"dg-publish":true,"permalink":"/main/blog-posts/2023-07-20-a-lack-of-resources-to-deal-with-unions-for-employers-who-actually-want-them/","noteIcon":""}
 ---
 
 #labor #unions #harebrained-schemes #ignorant-harm-through-confident-incompitence #cohost-repost
